@@ -1,0 +1,10 @@
+{
+  "description": "Portfolio de Desarrollador de Apps Web",
+  "owner": {
+    "username": "jfornielestiburcio02-web",
+    "email": "jfornielestiburcio02@gmail.com"
+  },
+  "records": {
+    "CNAME": ["ayuntamientofregenal.vercel.app"]
+  }
+}
